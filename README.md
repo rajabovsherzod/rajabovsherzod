@@ -23,5 +23,5 @@ I'm a passionate learner and developer, especially focused on programming, probl
 ---
 
 ### 📫 Contact:
-- Email: your-email@example.com
-- Telegram: @yourusername
+- Email: sherzodradjabov0625@gmail.com
+- Telegram: @Sherzod_Rajabov
