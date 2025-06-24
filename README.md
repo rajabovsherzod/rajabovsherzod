@@ -29,7 +29,7 @@
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="Sherzod's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=rajabovsherzod&theme=dracula&hide_border=true&area=true" />
+    <img alt="Sherzod's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=rajabovsherzod&theme=react&hide_border=true&area=true" />
   </a>
 </p>
 
