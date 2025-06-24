@@ -1,57 +1,48 @@
-<h1 align="center">Hi there 👋 I'm Sherzod</h1>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <h1 align="center">Hi there, I'm Sherzod 👋</h1>
+  <h3 align="center">A passionate Full-Stack Developer building modern and responsive web applications.</h3>
+</div>
+
+---
+
+### 📊 My GitHub Stats
 
 <p align="center">
-  I'm a passionate learner and full-stack developer. I love solving problems, learning new technologies, and building impactful applications.
+  <img src="https://github-readme-stats.vercel.app/api?username=rajabovsherzod&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Sherzod's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajabovsherzod&layout=compact&theme=tokyonight" alt="Sherzod's Top Languages" />
 </p>
 
 ---
 
-### 🧠 Codewars Rank
+### 🚀 My Tech Stack
 
 <p align="center">
-  <img src="https://www.codewars.com/users/rajabovsherzod/badges/large" alt="Codewars Badge" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,html,css,tailwind,nodejs,express,socketio,mongodb,postgresql,mongoose,jest,git,docker,figma,postman,webpack,vite,reactnative,expo&perline=11&theme=dark" />
+  </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajabovsherzod&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rajabovsherzod&theme=radical&column=7&no-frame=true" alt="Sherzod's Trophies" />
 </p>
 
 ---
 
-### 💻 Technologies I Use
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-</p>
-
----
-
-### 📫 Contact
+### 🔗 Connect with me
 
 <p align="center">
   <a href="mailto:sherzodradjabov0625@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://t.me/Sherzod_Rajabov">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Keep+learning!;Keep+building!;Keep+solving!;Welcome+to+my+profile!" alt="Typing SVG" />
+  <a href="https://www.linkedin.com/in/sherzod-rajabov-3816a127b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
