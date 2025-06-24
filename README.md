@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,html,css,tailwind,nodejs,express,socketio,mongodb,postgresql,mongoose,jest,git,docker,figma,postman,webpack,vite,reactnative,expo&perline=11&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nestjs,redux,html,css,tailwind,nodejs,express,socketio,mongodb,postgresql,jest,git,docker,figma,postman,webpack,vite,reactnative,expo&perline=11&theme=dark" />
   </a>
 </p>
 
@@ -28,7 +28,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rajabovsherzod&theme=radical&column=7&no-frame=true" alt="Sherzod's Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rajabovsherzod&theme=flat&column=7&no-frame=true&no-bg=true" alt="Sherzod's Trophies" />
 </p>
 
 ---
@@ -37,12 +37,14 @@
 
 <p align="center">
   <a href="mailto:sherzodradjabov0625@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://t.me/Sherzod_Rajabov">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sherzod-rajabov-3816a127b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
 </p>
