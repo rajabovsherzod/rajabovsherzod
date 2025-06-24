@@ -25,10 +25,12 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### 📈 My GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rajabovsherzod&theme=flat&column=7&no-frame=true&no-bg=true" alt="Sherzod's Trophies" />
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img alt="Sherzod's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=rajabovsherzod&theme=tokyonight&hide_border=true&area=true" />
+  </a>
 </p>
 
 ---
@@ -37,14 +39,12 @@
 
 <p align="center">
   <a href="mailto:sherzodradjabov0625@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://t.me/Sherzod_Rajabov">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sherzod-rajabov-3816a127b/">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
